@@ -189,12 +189,16 @@ The Avellaneda–Stoikov model produced:
 - Lower drawdown
 - Improved inventory control
 
+![PnL Comparison](results/pnl_comparison.png)
+
 ### Inventory Comparison
 
 Inventory dynamics reveal:
 
 - Heuristic MM stays near flat inventory
 - AS model accepts larger inventory swings for higher expected profit
+
+![Inventory Comparison](results/inventory_comparison.png)
 
 ## Sample Output
 ```
